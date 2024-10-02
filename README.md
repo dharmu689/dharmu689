@@ -26,17 +26,7 @@
 
 
 
-<h1 align="center">Hi. 👋, I'm Dharmu Kumar</h1>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">- 🔭 I’m working on Upskilling myself.<br><br>- 📚 I'm currently learning Web Development Frameworks ...<br><br>- ⚡ In my free time I Playing, Watching Movies and Series.</p>
-
-###
 
 <h3 align="left">Connect with me :</h3>
 
