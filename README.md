@@ -38,11 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/dharmu689/dharmu689/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
